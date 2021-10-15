@@ -10,7 +10,7 @@ const CACHE_NAME = 'v1_cache_EP1',
         'https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&family=Noto+Sans+JP&display=swap',
         './style.css',
         './script.js',
-        './img/labModify.png',
+        './img/labModify02.png',
         './img/pruebas.jpg',
     ]
 

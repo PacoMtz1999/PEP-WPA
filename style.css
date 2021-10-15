@@ -166,7 +166,7 @@ p.copyright {
 	}
 
 	.contenedor-imagen {
-		height: 50vh;
+		height: auto;
 	}
 
 	main .contenedor {
